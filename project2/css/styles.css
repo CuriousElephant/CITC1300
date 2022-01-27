@@ -1,3 +1,9 @@
 body {
     background-color: #021F59;
 }
+
+#container {
+    width: 800px;
+    background-color: #2c6be7;
+    
+}
