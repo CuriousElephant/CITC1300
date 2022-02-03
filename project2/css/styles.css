@@ -51,6 +51,11 @@ footer {
     padding: 40px;
 }
 
+.active {
+    background-color: darkolivegreen;
+    color: darkslategrey;
+}
+
 nav{
     background-color: crimson;
     padding-top: 10px;
@@ -74,4 +79,10 @@ nav a {
 nav a:hover {
     background-color: darkolivegreen;
     color: darkslategrey;
+}
+
+.pro_head {
+    text-align: center;
+    color: gold;
+    font-size: 1.5em;
 }
